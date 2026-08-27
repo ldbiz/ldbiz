@@ -1,9 +1,11 @@
 
-## About me
+## About
 
-> **Long-time software engineer, now developing almost entirely with AI.**
->
-> I define the problems, architecture, constraints and review; AI does much of the implementation.
->
-> I stand behind what I publish, but if AI-written code is a problem for you, **don’t use my repositories**.
+Long-time software-engineer. Loved coding since I was a kid. Still do. But we’re in a different era now.
+
+These days, serious software development is done through [AI-assisted / agentic engineering](https://scottspence.com/posts/agentic-engineering-practical-guide).
+
+The code here is owned, reviewed and shipped on that basis.
+
+**If that's a problem for you, best not to use my code.**
 
